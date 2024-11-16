@@ -1,0 +1,11 @@
+build:
+  version: '1.0'
+
+loans:
+  message: 'Welcome to EasyBank loans related Product APIs'
+  contactDetails:
+    name : 'Aymen Farhani - Product Owner'
+    email: 'aymenfarhani28@gmail.com'
+  onCallSupport:
+    -(777) 392-4892
+    -(777) 203-0384

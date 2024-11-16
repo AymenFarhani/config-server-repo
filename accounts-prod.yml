@@ -1,0 +1,11 @@
+build:
+  version: '1.0'
+
+accounts:
+  message: 'Welcome to EasyBank accounts related Product APIs'
+  contactDetails:
+    name : 'Aymen Farhani - Product Owner'
+    email: 'aymenfarhani28@gmail.com'
+  onCallSupport:
+    -(777) 392-4892
+    -(777) 203-0384
