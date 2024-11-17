@@ -2,7 +2,7 @@ build:
   version: '1.0'
 
 cards:
-  message: 'Welcome to EasyBank cards related Product APIs'
+  message: 'Welcome to EasyBank cards related Production APIs'
   contactDetails:
     name : 'Aymen Farhani - Product Owner'
     email: 'aymenfarhani28@gmail.com'
