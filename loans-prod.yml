@@ -2,7 +2,7 @@ build:
   version: '1.0'
 
 loans:
-  message: 'Welcome to EasyBank loans related Product APIs'
+  message: 'Welcome to EasyBank loans related Production APIs'
   contactDetails:
     name : 'Aymen Farhani - Product Owner'
     email: 'aymenfarhani28@gmail.com'
